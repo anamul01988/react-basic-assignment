@@ -1,0 +1,13 @@
+.col-md-3.sidebar {
+    background: #545b62;
+    /* font-size: 15px; */
+}
+.cart-content h2 {
+    font-size: 23px;
+    color: rgb(87 211 72 / 82%);
+}
+.cart-content p {
+    /* background: #fff; */
+    /* color: yellow; */
+    color: rgb(87 211 72 / 82%);
+}

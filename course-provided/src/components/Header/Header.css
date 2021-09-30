@@ -1,0 +1,19 @@
+.header{
+    background: pink;
+    border: 1px solid #999;
+    font-size: 5px;
+    text-align: center;
+}
+.header .content h1{
+   color: black;
+   font-size: 36px;
+
+
+}
+.header .content h4{
+    color:#0e0d0db8;
+    font-size: 30px;
+ 
+ }
+
+ 
